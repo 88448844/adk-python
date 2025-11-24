@@ -160,7 +160,7 @@ part before or alongside your code PR.
     source .venv/bin/activate
     ```
 
-    **windows** `shell .\.venv\Scripts\activate`
+    **windows** `.\.venv\Scripts\activate`
 
 4.  **Install dependencies:**
 
