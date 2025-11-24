@@ -56,7 +56,7 @@ information on using pull requests.
 
 ### Requirement for PRs
 
--   All PRs, other than small documentation or typo fixes, should have a Issue
+-   All PRs, other than small documentation or typo fixes, should have an Issue
     associated. If a relevant issue doesn't exist, please create one first or
     you may instead describe the bug or feature directly within the PR
     description, following the structure of our issue templates.
@@ -160,7 +160,7 @@ part before or alongside your code PR.
     source .venv/bin/activate
     ```
 
-    **windows** `shell source .\.venv\Scripts\activate`
+    **windows** `shell .\.venv\Scripts\activate`
 
 4.  **Install dependencies:**
 
